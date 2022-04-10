@@ -1,6 +1,6 @@
 # Directory API サンプルコード
 
-Scriptのコードを記載しています。
+Google Apps Scriptのコードを記載しています。
 Google Workspaceのグループ、Chromebookデバイスの情報を取得するサンプルを紹介します。
 
 ## ファイル構成
